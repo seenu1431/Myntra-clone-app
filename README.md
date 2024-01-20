@@ -1,0 +1,1 @@
+Welcome to the Myntra Clone App project! This project aims to replicate the functionality and user experience of the popular online fashion and lifestyle store, Myntra. The app allows users to browse a wide range of fashion products, add them to their cart, and make purchases seamlessly.
